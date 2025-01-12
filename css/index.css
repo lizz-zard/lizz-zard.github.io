@@ -1,7 +1,6 @@
 body {
     background-color: rgb(239, 233, 219);
     text-align: center;
-    font-family: "Lucida Console", "Monaco", monospace;
 }
 a {
     color: rgb(210, 4, 45);
@@ -10,8 +9,8 @@ p {
     color: rgb(54, 37, 0);
 }
 .bio{
-    margin-right: 300px;
-    margin-left: 300px;
+    margin-right: 250px;
+    margin-left: 250px;
 }
 t{
     color: rgb(127, 1, 26);
@@ -22,5 +21,4 @@ span{
 }
 img{
     padding: 20px;
-    width: 200px;
 }
